@@ -15,7 +15,7 @@ tests on a SMART capable IDE DEVICE. You must have a BIOS and hardware
 that supports it.
 
 %description -l pl
-ide-smart wykonuje zapytania i odczytuje rezultaty nie-destrykcyjnych
+ide-smart wykonuje zapytania i odczytuje rezultaty niedestrukcyjnych
 testów na urz±dzeniu IDE obs³uguj±cym SMART. Musisz mieæ BIOS oraz
 sprzêt obs³uguj±cy SMART.
 
