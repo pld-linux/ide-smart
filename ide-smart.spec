@@ -1,12 +1,12 @@
 Summary:	IDE S.M.A.R.T. test and query tool
 Summary(pl):	IDE S.M.A.R.T. - narzêdzie testuj±ce i odpytuj±ce
 Name:		ide-smart
-Version:	1.3
-Release:	2
+Version:	1.4
+Release:	1
 License:	GPL
 Group:		Applications/System
-Source0:	http://metalab.unc.edu/pub/Linux/hardware/%{name}-%{version}.tar.gz
-# Source0-md5:	289167bd31112ce23b43915b037597d6
+Source0:	http://lightside.eresmas.com/%{name}-%{version}.tar.gz
+# Source0-md5:	268fb2a29224b4554073edaad50b9cb0
 URL:		http://www.linux-ide.org/smart.html
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
