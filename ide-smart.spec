@@ -6,6 +6,7 @@ Release:	2
 License:	GPL
 Group:		Applications/System
 Source0:	http://metalab.unc.edu/pub/Linux/hardware/%{name}-%{version}.tar.gz
+# Source0-md5:	289167bd31112ce23b43915b037597d6
 URL:		http://www.linux-ide.org/smart.html
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
