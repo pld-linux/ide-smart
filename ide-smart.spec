@@ -5,7 +5,8 @@ Version:	1.3
 Release:	2
 License:	GPL
 Group:		Applications/System
-Source0:	http://metalab.unc.edu/pub/Linux/hardware/%{name}-%{version}.tar.gz
+Source0:	http://www.ibiblio.org/pub/Linux/hardware/%{name}-%{version}.tar.gz
+# Source0-md5:	b2348bce462083c0169045112df0bbbc
 URL:		http://www.linux-ide.org/smart.html
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
