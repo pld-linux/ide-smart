@@ -1,5 +1,5 @@
 Summary:	IDE S.M.A.R.T. test and query tool
-Summary(pl):	IDE S.M.A.R.T. - narzêdzie testuj±ce i odpytuj±ce
+Summary(pl.UTF-8):   IDE S.M.A.R.T. - narzÄ™dzie testujÄ…ce i odpytujÄ…ce
 Name:		ide-smart
 Version:	1.4
 Release:	1
@@ -15,10 +15,10 @@ ide-smart performs and queries the results of various non destructive
 tests on a SMART capable IDE DEVICE. You must have a BIOS and hardware
 that supports it.
 
-%description -l pl
+%description -l pl.UTF-8
 ide-smart wykonuje zapytania i odczytuje rezultaty niedestrukcyjnych
-testów na urz±dzeniu IDE obs³uguj±cym SMART. Musisz mieæ BIOS oraz
-sprzêt obs³uguj±cy SMART.
+testÃ³w na urzÄ…dzeniu IDE obsÅ‚ugujÄ…cym SMART. Musisz mieÄ‡ BIOS oraz
+sprzÄ™t obsÅ‚ugujÄ…cy SMART.
 
 %prep
 %setup -q
