@@ -1,5 +1,5 @@
 Summary:	IDE S.M.A.R.T. test and query tool
-Summary(pl.UTF-8):   IDE S.M.A.R.T. - narzędzie testujące i odpytujące
+Summary(pl.UTF-8):	IDE S.M.A.R.T. - narzędzie testujące i odpytujące
 Name:		ide-smart
 Version:	1.4
 Release:	1
